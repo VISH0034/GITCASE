@@ -1,0 +1,1 @@
+Hi, This is main.txt in my git workflow
